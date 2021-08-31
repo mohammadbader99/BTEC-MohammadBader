@@ -73,3 +73,7 @@ Wireframe:
 
 * Testing technique:
   * Black box testing: it is a software testing approach in which the tester is unaware of the internal structure, design, or implementation of the object being tested. These tests might be functional or non-functional, however functional tests are more common.
+
+# References:
+* https://softwaretestingfundamentals.com/black-box-testing/
+* https://zenkit.com/en/blog/agile-methodology-an-overview/

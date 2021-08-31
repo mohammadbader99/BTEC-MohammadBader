@@ -63,3 +63,9 @@
 * Since our project is created with HTML, JavaScript and CSS, we chose to use VS Code because it gives the ability to write in the all the three languages. It also gives us the option to view or work live on the browser
 * Linux can be connected with github easily and its terminal supports git language and SSH, so we can push our changes to deffirent branches to reduce conflicts
 * GitHub supports commits and pull requests and it is more easy to use, it also gives the ability to more than one person to deploy changes on the project, and we can create a free organization to wor in it.
+
+# References
+* https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms
+* https://arbisoft.com/blog/vs-code-versus-pycharm-the-smackdown/
+* https://www.edureka.co/blog/linux-vs-windows/
+* https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/
