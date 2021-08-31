@@ -57,3 +57,9 @@
   * It offers commits and pull requests.
   * More easy to use.
   * It is a larg community, so you can easily discuss problems with others.
+
+## task 2.3:
+
+* Since our project is created with HTML, JavaScript and CSS, we chose to use VS Code because it gives the ability to write in the all the three languages. It also gives us the option to view or work live on the browser
+* Linux can be connected with github easily and its terminal supports git language and SSH, so we can push our changes to deffirent branches to reduce conflicts
+* GitHub supports commits and pull requests and it is more easy to use, it also gives the ability to more than one person to deploy changes on the project, and we can create a free organization to wor in it.
